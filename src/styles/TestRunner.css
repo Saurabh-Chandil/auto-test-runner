@@ -1,0 +1,12 @@
+.app__buttons {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+.app__buttons--status {
+  margin-left: 10px;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
+  
